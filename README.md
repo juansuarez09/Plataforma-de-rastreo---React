@@ -51,26 +51,3 @@ npm run dev
 npm run build
 ```
 
-## Despliegue en Vercel
-
-```bash
-# Instalar Vercel CLI
-npm i -g vercel
-
-# Desde la carpeta del proyecto
-vercel
-```
-
-O simplemente conecta el repositorio en https://vercel.com/new
-
-## Despliegue en Netlify
-
-Arrastra la carpeta `dist/` (después de `npm run build`) en:
-https://app.netlify.com/drop
-
-## Rutas
-
-| Ruta     | Descripción                        |
-|----------|------------------------------------|
-| `/`      | Página pública de rastreo          |
-| `/admin` | Panel de administración            |
