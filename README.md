@@ -53,3 +53,8 @@ npm run build
 ## Link de acceso a la pagina
 
 https://iridescent-paprenjak-55d8e3.netlify.app/
+
+#Participantes
+*Alejandro Vanegas
+*Juan Carlos Suarez
+*Brandon Velandia
