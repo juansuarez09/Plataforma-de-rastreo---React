@@ -1,3 +1,6 @@
+// Configuración de ESLint para un proyecto React con Vite.
+// Se importan las reglas recomendadas, soporte para hooks,
+// recarga en caliente y variables globales del navegador.
 import js from '@eslint/js'
 import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
