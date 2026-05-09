@@ -50,4 +50,6 @@ npm run dev
 # 4. Construir para producción
 npm run build
 ```
+## Link de acceso a la pagina
 
+https://iridescent-paprenjak-55d8e3.netlify.app/
