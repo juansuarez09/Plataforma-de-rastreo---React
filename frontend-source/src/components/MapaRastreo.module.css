@@ -1,0 +1,21 @@
+.wrapper {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px 20px;
+}
+
+.title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #6b7280;
+  margin: 0 0 12px;
+}
+
+.note {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: #9ca3af;
+}
