@@ -36,7 +36,7 @@
 ```
 
 ## Instalación y desarrollo
-
+```
 ```bash
 # 1. Descomprimir el zip y entrar a la carpeta
 cd frontend-source
